@@ -3,7 +3,7 @@
 Users can track their activities with this basic app.<br>
 Users and activities share a one-to-many relationship.<br>
 It is a simple Spring Boot, JPA-Hibernate Project using Maven as the build tool, demonstrating the use of @OneToMany and @ManyToOne.<br><br>
-**THIS APP IS AIMED MAINLY AT BEGINNERS, OR ANY PERSON HAVING TROUBLE WITH MAPPINGS.**
+**THIS APP IS AIMED MAINLY AT BEGINNERS AND ANY PERSON HAVING TROUBLE WITH MAPPINGS.**
 
 ## Built With
 
