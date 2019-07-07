@@ -14,3 +14,7 @@ It is a simple Spring Boot, JPA-Hibernate Project using Maven as the build tool,
 ## Authors
 
 * **Abhijeet Rawat**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
