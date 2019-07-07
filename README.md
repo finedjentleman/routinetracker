@@ -17,4 +17,4 @@ It is a simple Spring Boot, JPA-Hibernate Project using Maven as the build tool,
 
 ## License
 
-This project is licensed under the MIT License - see the [License.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [License](License.md) file for details
